@@ -236,6 +236,10 @@ hr.home{
     padding-top: 20px;
 }
 
+.page a, .page2 a{
+    text-decoration: none;
+}
+
 .form-container{
     margin-top: 50px;
 }
